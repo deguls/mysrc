@@ -1,3 +1,3 @@
 FROM node:7-alpine
 
-CMD ["echo", "vulnerability test 008"]
+CMD ["echo", "vulnerability test 001"]
